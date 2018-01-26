@@ -5,7 +5,8 @@ This repository will be retired. I'm migrating away from Domoticz to another aut
 solution. It requires an effort to maintain this ideAlarm for Domoticz   
 and I won't have the time to do it in the future.                     
                                                                                                
-If you'd like to become the maintainer of this repo, please let me know. Submit an issue and I'll be notified.
+If you'd like to become the maintainer of this repo, please let me know.
+Submit an issue and I'll be notified.
 ```
 
 # ideAlarm
